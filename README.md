@@ -1,4 +1,4 @@
-# Spring2020
+# Spring 2020
 Space for collaboration for STAC's CS 485 Web Programming class "The American Restaurant" project.  
 
 For the initial setup, we're going to have the structure set with the directories such as assets, css, includes.
